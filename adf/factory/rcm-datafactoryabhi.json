@@ -1,0 +1,9 @@
+{
+	"name": "rcm-datafactoryabhi",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aedb48b7-e014-4b0b-a8f1-76d0a624814f",
+		"tenantId": "b2f57371-782c-4a40-84df-9f93d03cdccd"
+	}
+}
